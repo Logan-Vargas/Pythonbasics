@@ -14,11 +14,11 @@
 
 x = 0
 
-while True:
-    print("Enter your name:")
-    name = input()
-    if name == 'Logan':
-        print("Your name is" +name)
-        break
-else:
-    print("Thank you!")
+# while True:
+#     print("Enter your name:")
+#     name = input()
+#     if name == 'Logan':
+#         print("Your name is" +name)
+#         break
+# else:
+#     print("Thank you!")
